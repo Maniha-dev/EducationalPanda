@@ -1,0 +1,23 @@
+{
+    "uni_harvard": {
+        "name": "Harvard University",
+        "loc": "USA",
+        "details": "Ivy League research university.",
+        "admin_email": "harvard@edupanda.com",
+        "admin_hash": "8c39b89923273502152233dc0ddc2f06cf1fd41fa3cad52a9b3d65e62fdfdd93"
+    },
+    "uni_oxford": {
+        "name": "University of Oxford",
+        "loc": "UK",
+        "details": "Oldest university in the English-speaking world.",
+        "admin_email": "oxford@edupanda.com",
+        "admin_hash": "8c39b89923273502152233dc0ddc2f06cf1fd41fa3cad52a9b3d65e62fdfdd93"
+    },
+    "uni_lums": {
+        "name": "LUMS",
+        "loc": "Pakistan",
+        "details": "Leading private research university.",
+        "admin_email": "lums@edupanda.com",
+        "admin_hash": "8c39b89923273502152233dc0ddc2f06cf1fd41fa3cad52a9b3d65e62fdfdd93"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "EduTech World": {
+        "uni_id": "uni_lums",
+        "attendees": [
+            "ali@gmail.com"
+        ]
+    },
+    "Python Developer Meetup": {
+        "uni_id": "uni_oxford",
+        "attendees": [
+            "ali@gmail.com"
+        ]
+    },
+    "Ai confernce": {
+        "uni_id": "uni_harvard",
+        "attendees": []
+    }
+}

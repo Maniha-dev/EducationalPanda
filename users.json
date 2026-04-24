@@ -1,0 +1,19 @@
+{
+    "admin@edupanda.com": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "new@gmail.com": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "me@gmail.com": {
+        "name": "maneeha",
+        "uni": "Harvard University",
+        "hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "ali@gmail.com": {
+        "name": "ali",
+        "uni": "Harvard University",
+        "hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+    },
+    "maria@gmail.com": {
+        "name": "maria",
+        "uni": "LUMS",
+        "hash": "c7e616822f366fb1b5e0756af498cc11d2c0862edcb32ca65882f622ff39de1b"
+    }
+}

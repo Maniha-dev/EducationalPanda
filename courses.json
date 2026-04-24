@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Web Development",
+        "price": 15,
+        "desc": "Learn Flet & React.",
+        "uni_id": "uni_lums",
+        "capacity": 100
+    },
+    {
+        "title": "Cloud Computing Basics",
+        "price": 50,
+        "desc": "Introduction to AWS.",
+        "uni_id": "uni_oxford",
+        "capacity": 30
+    },
+    {
+        "title": "Machine Learning Ethics",
+        "price": 0,
+        "desc": "Study the impact of AI.",
+        "uni_id": "uni_tokyo",
+        "capacity": 10
+    },
+    {
+        "title": "Ai course",
+        "price": 15,
+        "desc": "Better Future",
+        "uni_id": "uni_harvard",
+        "capacity": 20
+    }
+]
